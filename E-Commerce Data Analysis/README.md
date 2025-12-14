@@ -3,4 +3,5 @@ This project analyzes an end-to-end e-commerce sales pipeline using a star schem
 
 ## Dataset
 Data Source : https://www.kaggle.com/datasets/mmohaiminulislam/ecommerce-data-analysis
+
 Schema: Fact table (transactions) linked to Customer, Item, Store, Time, and Payment dimension tables.
