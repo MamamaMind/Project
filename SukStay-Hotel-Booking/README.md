@@ -26,10 +26,13 @@ A full-stack hotel booking application built with **React** (frontend) and **Nod
 - React Router
 - Tailwind CSS
 - Axios
+- Vite
 
 ### Backend
-- Node.js & Express
-- MongoDB & Mongoose
+- Node.js
+- Express
+- MongoDB
+- Mongoose
 
 ## Project Structure
 ```
