@@ -4,13 +4,19 @@ A full-stack hotel booking application built with **React** (frontend) and **Nod
 
 ## Features
 
-- Browse hotels and view hotel details
-- Check room availability for specific dates and book hotels
-- Filter and search hotels based on criteria
+- Browse hotels and view detailed hotel information
+- Check room availability for specific dates and make bookings
+- Filter hotels based on criteria
 - User authentication with role-based access (owner and user)
 - Owners can add hotels and rooms
-- Owner dashboard to manage rooms and hotel listings
-- Dashboard to track room status, total revenue, and view bookings
+- **Owner dashboards**:
+  - Manage rooms and hotel listings
+  - Track total bookings, room status, and total revenue
+  - Set room availability (Available / Not Available)
+- **User dashboard**:
+  - Manage all bookings
+  - Track payment status and booking history
+- Email confirmation for bookings
 
 
 ## Technologies Used
