@@ -33,6 +33,7 @@ A full-stack hotel booking application built with **React** (frontend) and **Nod
 - Express
 - MongoDB
 - Mongoose
+- Nodemon
 
 ## Project Structure
 ```
